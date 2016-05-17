@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-51f2d671b69046a86c304eedf51da56e78378cff.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-7bfa6cdd6f568dc005062c1a484200b1bc3d3bd6.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-0460d7a5ae7fdf3bee9d2ac5a960a0df9c9d3f56.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-4de9f29dfda943abba9b0f07c6488c4d591efbec.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-db6b777c652fcb756a15ef5ac67a306b775bb09a.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-bc6b33f766e60ff5014d622548369e391a95be27.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-4872a9fbab4be29595caf4fe7e2fbf0e8b03bca6.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-e0ae8c26847bab5182432986ead746bd4567b0f6.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-e452093f59bf56ec6b3240d12ca094f51e3077df.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-95d5abb40339789bc0383cc5d5a54b963640e11d.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-50e105e645e4a3c17447a4c6d119c203bd4cca13.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-f9138996699d66fe5dcac4fbfecec45b0faf720e.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-b64064a306d0ee6926bc3473f7c9129a08a9ad49.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-75df9bda7388e926568d2f64df9dc8656fc226e9.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-604c95b27637148e61ffda585b3d24258a260417.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-22d812ba0592ab92b0c2e7dcf14842f50f74bcb8.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-2b396d26a4f4f58f80a1fa9968537163a622df35.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-e9634fafa7b6e4665d0eca4bcfd2a6f3dd310f7c.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-753b876c209cb5cd85f407ca934071d0c31ab445.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-433a76700e9b8b6c00279aadd153f7b71b5cb366.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-c0784b6f0995c03e4bf2e88ae91a50ff926ee6f1.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-dcfd9562930e5c9cd42a312993b822c71a84d0a2.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-f0c2c24b21d1cf17f34c9035ef24b0ce22816619.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-431414432f2a000d42264fa41b0e3322bc423b90.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-43da1ac4aa478b40f4add079abd9e30f2c004131.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-75a1130e7b8b67ba955dc256db062ad755e6a537.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-52eb41d67c749d73e08d48fef44446e7c3e4402c.jar" />
+    </item>
+    <item
+        jar="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/varsha/Grishma/GD/Research &amp; Development/Google Direction API/android-play-location-master/LocationUpdates/app/build/intermediates/pre-dexed/debug/classes-b7ea97b8c747593abe18ee7f9ceb95987e027d83.jar" />
+    </item>
+
+</items>
